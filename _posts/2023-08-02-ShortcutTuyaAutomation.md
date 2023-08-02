@@ -2,7 +2,6 @@
 permalink: /posts/DitakticBot
 title: "Automation of Tuya with Homekit and Shortcuts"
 tags: Shortcuts Homekit Tuya SmartHome
-date: 2023-06-02
 ---
 
 Problem: I have devices that are registered and linked into my Tuya app, but HomeKit on iOS doesn't yet support integrating them into my Home app. While I can automate them through the Tuya app itself, Shortcuts is a bit more powerful and I'd like everything in one place. So, how can I link these?
