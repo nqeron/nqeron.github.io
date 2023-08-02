@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/noah-s-fields/"
     - label: "Email"
-      icon: "fab fa-fw fa-gmail"
+      icon: "fab fa-fw fa-mail"
       url: "mailto:noah@fields.name"
 
 footer:
@@ -82,7 +82,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
