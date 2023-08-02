@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Noah Fields Portfolio
+title: Noah Fields Personal Website
 email: noah@fields.name
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio and Blog for Noah Fields
@@ -66,18 +66,18 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/noah-s-fields/"
+    - label: "Email"
+      icon: "fab fa-fw fa-gmail"
+      url: "mailto:noah@fields.name"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/nqeron"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/noah-s-fields/"
 
 defaults:
   # _posts
