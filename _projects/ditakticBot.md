@@ -1,7 +1,7 @@
 ---
 permalink: /projects/DitakticBot
 title: "DitakticBot"
-tags: active, Nim, WebSocket
+tags: active Nim WebSocket
 ---
 
 A bot created for the two-player abstract strategy game Tak. Written in Nim.
