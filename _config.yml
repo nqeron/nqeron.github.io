@@ -98,6 +98,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
