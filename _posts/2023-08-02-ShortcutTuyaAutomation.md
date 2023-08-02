@@ -1,5 +1,5 @@
 ---
-permalink: /posts/DitakticBot
+#permalink: /posts/DitakticBot
 title: "Automation of Tuya with Homekit and Shortcuts"
 tags: Shortcuts Homekit Tuya SmartHome
 ---
